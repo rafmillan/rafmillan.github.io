@@ -72,19 +72,6 @@ input, select, textarea {
 	appearance: none;
 }
 
-#services-list > li{
-	float:left;
-	margin-right: 20px;
-	width: 130px;
-  }
-  
-  #services-list > li > .image{
-	display:block;
-	margin-right:5x;
-	color: #212931;
-
-  }
-
 /* Basic */
 
 	@-ms-viewport {
@@ -2563,12 +2550,6 @@ input, select, textarea {
 	}
 
 /* Icon */
-
-	.cppIcon{
-		color: #212931;
-		height: 10px;   
-    	width: 10px; 
-	}	
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
