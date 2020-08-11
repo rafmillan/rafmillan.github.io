@@ -1045,6 +1045,7 @@ input, select, textarea {
 						padding: 0 0 0 3rem;
 					}
 
+				
 					.row.gtr-200.gtr-uniform {
 						margin-top: -3rem;
 					}
@@ -2554,8 +2555,6 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
-		height: 10px;   
-    	width: 10px; 
 	}
 
 		.icon:before {
@@ -2809,7 +2808,7 @@ input, select, textarea {
 		ul.icons li {
 			display: inline-block;
 			padding: 0 0.5rem 0 0;
-			vertical-align: text-top;
+			vertical-align: top;
 		}
 
 		ul.icons li img{
