@@ -2232,7 +2232,7 @@ input, select, textarea {
 		.button.primary {
 			background-color: #212931;
 			box-shadow: none;
-			color: #ffffff !important;
+			color: #18bfef !important;
 		}
 
 			input[type="submit"].primary:hover,
@@ -2709,6 +2709,12 @@ input, select, textarea {
 
 			ul.actions.special li:first-child {
 				padding-left: 0;
+			}
+
+			ul.actions.s li button,
+			ul.actions.s li.button {
+				padding-top: 0;
+				justify-content: left;
 			}
 
 		ul.actions.stacked {
